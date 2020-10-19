@@ -1,0 +1,13 @@
+﻿Installation de l'assembly 'C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   assemblypath = C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Installation du service Service1 en cours...
+Le service Service1 a été installé avec succès.
+Création d'une source EventLog Service1 dans le journal Application...
+Validation de l'assembly 'C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   assemblypath = C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.InstallLog

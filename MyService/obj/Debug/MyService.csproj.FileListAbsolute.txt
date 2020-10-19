@@ -1,0 +1,10 @@
+C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.exe.config
+C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.exe
+C:\Users\aurio\source\repos\MyService\MyService\bin\Debug\MyService.pdb
+C:\Users\aurio\source\repos\MyService\MyService\obj\Debug\MyService.csprojAssemblyReference.cache
+C:\Users\aurio\source\repos\MyService\MyService\obj\Debug\MyService.ProjectInstaller.resources
+C:\Users\aurio\source\repos\MyService\MyService\obj\Debug\MyService.Service1.resources
+C:\Users\aurio\source\repos\MyService\MyService\obj\Debug\MyService.csproj.GenerateResource.cache
+C:\Users\aurio\source\repos\MyService\MyService\obj\Debug\MyService.csproj.CoreCompileInputs.cache
+C:\Users\aurio\source\repos\MyService\MyService\obj\Debug\MyService.exe
+C:\Users\aurio\source\repos\MyService\MyService\obj\Debug\MyService.pdb
